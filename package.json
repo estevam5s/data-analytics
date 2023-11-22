@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@stlite/desktop": "^0.22.2",
-    "electron": "22.0.0",
+    "electron": "22.3.25",
     "electron-builder": "^23.6.0",
     "@babel/core": "^7.21.5",
     "@babel/node": "^7.20.7",
