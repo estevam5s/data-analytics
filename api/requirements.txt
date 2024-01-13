@@ -87,7 +87,7 @@ sphinxcontrib-htmlhelp==2.0.1
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
-streamlit==1.22.0
+streamlit==1.30.0
 streamlit-authenticator==0.2.1
 streamlit-lottie==0.0.3
 tenacity==8.2.2
